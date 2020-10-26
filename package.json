@@ -20,5 +20,7 @@
     "url": "https://github.com/AntonMV/frontend-project-lvl1/issues"
   },
   "homepage": "https://github.com/AntonMV/frontend-project-lvl1#readme",
-  "dependencies": {}
+  "dependencies": {
+    "promptly": "^3.1.0"
+  }
 }
